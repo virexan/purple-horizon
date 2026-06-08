@@ -96,7 +96,7 @@ The video section uses YouTube thumbnails that open directly on YouTube when cli
 
 ## 💜 Credits
 
-Made with love by an ARMY fan.
+Made with love by an ARMY fan (ME).
 
 > *"I want to be the best, and I want to be proof that hard work pays off."*  
 > — Jungkook
