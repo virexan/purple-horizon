@@ -1,102 +1,185 @@
-# 💜 BTS — Forever in our Hearts
+# 💜 BTS — Forever in Our Hearts
 
-A fan-made tribute website dedicated to BTS (방탄소년단), built with pure HTML, CSS, and JavaScript.
+A fan-made tribute website dedicated to **BTS (방탄소년단)**, celebrating their music, achievements, and journey through an interactive and visually engaging web experience.
+
+---
+
+## 🌟 Overview
+
+This project is a responsive BTS fan website built using **HTML**, **CSS**, and **Vanilla JavaScript**. It features animations, interactive member profiles, awards highlights, and music video showcases while maintaining a clean and modern design.
 
 ---
 
 ## ✨ Features
 
-- 🌟 Animated starfield background
-- 💜 Intro splash animation with bouncing sprites
-- ✦ Scrolling awards ticker banner
-- 🎴 Member cards with hover effects and mini bios
-- 🏆 Awards & milestones section
-- 🎬 Music video section (opens on YouTube)
-- 💫 Sparkle burst on every click
-- 📱 Responsive design for all screen sizes
+### 🎨 Interactive UI
+
+* Animated starfield background
+* Intro splash screen animation
+* Responsive layout for desktop and mobile
+* Smooth hover and transition effects
+
+### 👥 BTS Members Section
+
+* Individual member cards
+* Mini biographies
+* Interactive hover animations
+
+### 🏆 Achievements Showcase
+
+* Scrolling awards ticker
+* BTS milestones and achievements section
+
+### 🎬 Music Videos
+
+* Featured BTS music videos
+* Direct YouTube integration via thumbnails
+
+### 💫 Visual Effects
+
+* Click-triggered sparkle animations
+* Dynamic page interactions
 
 ---
 
-## 📁 Folder Structure
+## 🛠️ Tech Stack
+
+| Technology   | Purpose              |
+| ------------ | -------------------- |
+| HTML5        | Structure            |
+| CSS3         | Styling & Animations |
+| JavaScript   | Interactivity        |
+| Google Fonts | Typography           |
+
+---
+
+## 📂 Project Structure
+
+```text
 bts-fansite/
+│
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
+│
 └── images/
-├── hero.jpg
-├── rm.jpg
-├── jin.jpg
-├── suga.jpg
-├── jhope.jpg
-├── jimin.jpg
-├── v.jpg
-└── jungkook.jpg
-
-
----
-
-## 🚀 How to Run
-
-1. Clone or download this repository
-2. Add your images inside the `images/` folder
-3. Open `index.html` in your browser — no server needed!
+    ├── hero.jpg
+    ├── rm.jpg
+    ├── jin.jpg
+    ├── suga.jpg
+    ├── jhope.jpg
+    ├── jimin.jpg
+    ├── v.jpg
+    └── jungkook.jpg
+```
 
 ---
 
-## 🖼️ Image Guide
+## 🚀 Getting Started
 
-| File name | What to save |
-|---|---|
-| `hero.jpg` | Wide BTS group photo (landscape) |
-| `rm.jpg` | RM solo photo (portrait or square) |
-| `jin.jpg` | Jin solo photo |
-| `suga.jpg` | SUGA solo photo |
-| `jhope.jpg` | j-hope solo photo |
-| `jimin.jpg` | Jimin solo photo |
-| `v.jpg` | V solo photo |
-| `jungkook.jpg` | Jungkook solo photo |
+### 1. Clone the Repository
 
----
+```bash
+git clone https://github.com/virexan/bts-fansite.git
+```
 
-## 🎬 Music Videos
+### 2. Navigate to the Project Folder
 
-The video section uses YouTube thumbnails that open directly on YouTube when clicked. Videos featured:
+```bash
+cd bts-fansite
+```
 
-- **Dynamite** (2020)
-- **Butter** (2021)
-- **Boy With Luv** (2019)
+### 3. Add Images
 
----
+Place all required images inside the `images/` folder.
 
-## 🔗 Official Links
+### 4. Run the Website
 
-- 🌐 [Official Site](https://bts.ibighit.com)
-- 📺 [YouTube](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-- 📸 [Instagram](https://www.instagram.com/bts.bighitofficial)
+Open:
 
----
+```text
+index.html
+```
 
-## 🛠️ Built With
+in your browser.
 
-- HTML5
-- CSS3 (animations, grid, flexbox, CSS variables)
-- Vanilla JavaScript (canvas starfield, sparkle effects)
-- Google Fonts — Playfair Display, Space Mono, Noto Sans KR
+No installation or server setup required.
 
 ---
 
-## 📌 Notes
+## 🖼️ Required Images
 
-- No frameworks, no libraries — 100% vanilla
-- YouTube embeds don't work on local files due to browser restrictions — thumbnails link to YouTube instead
-- All images are stored locally — no external image dependencies
+| File Name    | Description       |
+| ------------ | ----------------- |
+| hero.jpg     | BTS group image   |
+| rm.jpg       | RM portrait       |
+| jin.jpg      | Jin portrait      |
+| suga.jpg     | SUGA portrait     |
+| jhope.jpg    | j-hope portrait   |
+| jimin.jpg    | Jimin portrait    |
+| v.jpg        | V portrait        |
+| jungkook.jpg | Jungkook portrait |
 
 ---
 
-## 💜 Credits
+## 🎵 Featured Music Videos
 
-Made with love by an ARMY fan (ME).
+* Dynamite (2020)
+* Butter (2021)
+* Boy With Luv (2019)
 
-> *"I want to be the best, and I want to be proof that hard work pays off."*  
+Clicking a video thumbnail opens the official YouTube video.
+
+---
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile Devices
+
+---
+
+## 📚 What I Learned
+
+* CSS Animations
+* Responsive Web Design
+* DOM Manipulation
+* Interactive UI Development
+* JavaScript Event Handling
+* Project Structuring
+
+---
+
+## 🔮 Future Improvements
+
+* Dark/Light Mode Toggle
+* BTS Discography Section
+* Fan Interaction Features
+* Search Functionality
+* Photo Gallery
+* Enhanced Accessibility
+
+---
+
+## 💜 Disclaimer
+
+This is a fan-made project created for educational and portfolio purposes. BTS, their logos, music, and related trademarks belong to their respective owners.
+
+---
+
+## 👨‍💻 Author
+
+**Deblina Mahata**
+
+GitHub: https://github.com/virexan
+
+---
+
+> "I want to be the best, and I want to be proof that hard work pays off."
+>
 > — Jungkook
